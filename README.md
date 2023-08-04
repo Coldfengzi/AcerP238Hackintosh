@@ -1,7 +1,12 @@
 # AcerP238Hackintosh
-Acer P238 Opencore引导文件
+## Acer P238 Opencore引导文件
+## 效果截图
+![截图](./ScreenShot.png)
+
+
 根据https://github.com/cn2156/Acer-TMTX50-Hackintosh-OpenCore 制作的EFI引导文件
-硬件配置
+
+## 硬件配置
 |   描述   |                           设备                            |  VEN_DEV  | 驱动情况 |
 | -------- | -------------------------------------------------------- | --------- | -------- |
 | 型号     | Acer TravelMate P238-G2-M-55C8                           |           |          |
@@ -16,4 +21,4 @@ Acer P238 Opencore引导文件
 | 读卡器   | Realtek USB 2.0 Card Reader                              | 0BDA-0129 |  ❎未完成        | 
 
 OpenCore版本:0.8.3
-感谢https://apple.sqlsec.com/ 国光老师提供教程。
+## 感谢https://apple.sqlsec.com/ 国光老师提供教程。
