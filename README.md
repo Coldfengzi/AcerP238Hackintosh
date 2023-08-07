@@ -2,7 +2,7 @@
 ## Acer P238 Opencore引导文件
 ## 效果截图
 ![截图](./ScreenShot.png)
-
+![截图](./MacOS_Version.png)
 
 根据https://github.com/cn2156/Acer-TMTX50-Hackintosh-OpenCore 制作的EFI引导文件
 
@@ -21,4 +21,5 @@
 | 读卡器   | Realtek USB 2.0 Card Reader                              | 0BDA-0129 |  ❎未完成        | 
 
 OpenCore版本:0.8.3
+OSX:12.4
 ## 感谢https://apple.sqlsec.com/ 国光老师提供教程。
